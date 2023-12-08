@@ -7,8 +7,14 @@
 Data will be collected from several websites using web scraping techniques. We can apply this method using python, request and beautifulsopu
 
 ## List Website
-* CNN Indonesia 👉 [cnn.indonesia.com](https://www.cnnindonesia.com/)
-* PTA Trunojoyo 👉 [pta.trunojoyo.ac.id](https://pta.trunojoyo.ac.id/c_search/)
+
+CNN Indonesia 👉 [cnn.indonesia.com](https://www.cnnindonesia.com/) <br>
+PTA Trunojoyo 👉 [pta.trunojoyo.ac.id](https://pta.trunojoyo.ac.id/c_search/) <br>
+
+## Documentation 📖
+
+Following are several steps to perform web scarping using the beautifulsoup library.
+[Read documentation here](https://syayidalaziz10.github.io/news_summarization/crawl_berita_cnn.html) 👈
 
 ## Built With 🚀
 
