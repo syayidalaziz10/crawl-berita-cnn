@@ -4,7 +4,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 
-Data will be collected from several websites using web scraping techniques. We can apply this method using python, request and beautifulsopu
+Data will be collected from several websites using web scraping techniques. We can apply this method using python, request and beautifulsoup
 
 ## List Website
 
